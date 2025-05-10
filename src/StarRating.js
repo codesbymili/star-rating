@@ -4,8 +4,7 @@ const containerStyle = {
     display: 'flex',
     alignItems: 'center',
     gap: '16px',
-    justifyContent: 'center',
-    margin: '50px'
+    justifyContent: 'center'
     
 }; //Kept outside to avoid regenerating this non changing object, each time the component is re-rendered
 
